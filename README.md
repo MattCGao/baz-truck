@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Baz Truck App source code for Tab Corp
+Baz Truck App source code for TabCorp
 
 ## Requirements
 
